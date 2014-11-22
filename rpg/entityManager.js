@@ -2,7 +2,7 @@ var entityManager =
 {
 	viewX : 100,
 	viewY : 100,
-	updateRadius : 500,
+	updateRadius : 780,
 	player : undefined, 
 	objects : []
 }
